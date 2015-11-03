@@ -10,7 +10,7 @@ This plugin provides the better look for file input form field for all browsers.
 
 ## Screenshot
 
-![alt text](https://github.com/kamranshahzad/ImageUpload/assets/images/file-upload-screenshot.png "File Upload screenshot")
+![alt text](https://github.com/kamranshahzad/file-input/blob/master/file-upload-screenshot.png "File Upload screenshot")
 
 ## Usage
 ### Dependencies:
